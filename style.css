@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap");
+.attribution {
+  position: relative;
+  bottom: 1850px;
+  font-size: 11px;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+body {
+  background-color: hsl(185, 75%, 39%);
+
+  font-family: "Kumbh Sans", sans-serif;
+  text-align: center;
+  margin-top: 70px;
+}
+h2 {
+  font-size: 18px;
+  color: hsl(229, 23%, 23%);
+  margin-bottom: 7px;
+}
+span,
+p {
+  font-weight: 400;
+  color: hsl(227, 10%, 46%);
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+.card {
+  background-color: #fff;
+  width: 350px;
+  height: 380px;
+  margin: 0 auto;
+  border-radius: 10px;
+  padding: 0;
+  position: relative;
+  bottom: 1850px;
+}
+.stats {
+  position: relative;
+  bottom: 53px;
+}
+.stats p {
+  font-size: 12px;
+  margin-bottom: 0;
+}
+hr {
+  width: 100%;
+  border-style: none;
+  height: 0.4px;
+  background-color: hsl(0, 0%, 85%);
+  margin: 0;
+}
+.stats-row {
+  width: 30%;
+  display: inline-block;
+}
+.profile-img {
+  border: solid 5px #fff;
+  border-radius: 50%;
+  position: relative;
+  bottom: 53px;
+}
+.card-pattern {
+  border-radius: 10px 10px 0 0;
+}
+.id {
+  position: relative;
+  bottom: 53px;
+}
+.bg {
+  z-index: -1;
+}
+.top {
+  position: relative;
+  bottom: 600px;
+  right: 500px;
+}
+.bottom {
+  position: relative;
+  bottom: 700px;
+  left: 500px;
+}
